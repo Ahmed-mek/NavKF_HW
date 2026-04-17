@@ -1,0 +1,3 @@
+# Component Note
+LTC4417
+Start writing your notes here...
