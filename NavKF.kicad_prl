@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 25,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -110,14 +110,26 @@
     "files": [
       {
         "name": "NavKF.kicad_pcb",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
-          "maximized": true,
+          "maximized": false,
           "pos_x": 2148,
           "pos_y": 32,
           "size_x": 754,
           "size_y": 900
+        }
+      },
+      {
+        "name": "NavKF.kicad_pro",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 433,
+          "pos_y": 375,
+          "size_x": 1002,
+          "size_y": 593
         }
       }
     ]

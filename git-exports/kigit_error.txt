@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/home/ahmedmikatonikpc/.local/share/kicad/10.0/3rdparty//plugins/com_github_ahmedmikatonikpc_kigit/kigit_action.py", line 62, in Run
+    run_kigit_flow(project_dir, board_path)
+  File "/home/ahmedmikatonikpc/.local/share/kicad/10.0/3rdparty//plugins/com_github_ahmedmikatonikpc_kigit/ui.py", line 112, in run_kigit_flow
+    result = smart_commit(
+             ^^^^^^^^^^^^^
+  File "/home/ahmedmikatonikpc/.local/share/kicad/10.0/3rdparty//plugins/com_github_ahmedmikatonikpc_kigit/gitops.py", line 44, in smart_commit
+    raise RuntimeError(f"DRC violations found. See: {report_path}")
+RuntimeError: DRC violations found. See: /media/ahmedmikatonikpc/MyExternal/Github_Project/NavKF_HW/git-exports/drc_report.txt
