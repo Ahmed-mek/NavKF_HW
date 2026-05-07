@@ -109,15 +109,15 @@
   "project": {
     "files": [
       {
-        "name": "NavKF.kicad_sch",
+        "name": "NavKF.kicad_pcb",
         "open": false,
         "window": {
-          "display": 2,
-          "maximized": false,
-          "pos_x": 3684,
-          "pos_y": 0,
-          "size_x": 1440,
-          "size_y": 810
+          "display": 0,
+          "maximized": true,
+          "pos_x": 2148,
+          "pos_y": 32,
+          "size_x": 754,
+          "size_y": 900
         }
       }
     ]
