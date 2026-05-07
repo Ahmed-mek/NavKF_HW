@@ -57,7 +57,7 @@
     "zone_display_mode": 0
   },
   "git": {
-    "integration_disabled": false,
+    "integration_disabled": true,
     "repo_type": "ssh",
     "repo_username": "git",
     "ssh_key": ""
@@ -107,7 +107,20 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "NavKF.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 2,
+          "maximized": false,
+          "pos_x": 3684,
+          "pos_y": 0,
+          "size_x": 1440,
+          "size_y": 810
+        }
+      }
+    ]
   },
   "schematic": {
     "hierarchy_collapsed": [],
