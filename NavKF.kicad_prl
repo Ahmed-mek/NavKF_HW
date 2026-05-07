@@ -107,7 +107,32 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "NavKF.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 2,
+          "maximized": false,
+          "pos_x": 3996,
+          "pos_y": 0,
+          "size_x": 754,
+          "size_y": 900
+        }
+      },
+      {
+        "name": "NavKF.kicad_pro",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 2091,
+          "pos_y": 206,
+          "size_x": 1002,
+          "size_y": 556
+        }
+      }
+    ]
   },
   "schematic": {
     "hierarchy_collapsed": [],
